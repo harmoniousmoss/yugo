@@ -27,7 +27,7 @@ GoRPS is a lightweight and high-performance tool built in Go using the Fiber fra
 ## Example `.env` File
 
 ```env
-DOMAIN=https://biwan.id
+DOMAIN=https://example.com
 ```
 
 ## Example `urls.txt`
