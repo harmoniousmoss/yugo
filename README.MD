@@ -38,7 +38,7 @@ DOMAIN=https://example.com
 /api/data?query=test
 /page123.html
 /products/item99
-...
+```
 
 # Terms and Conditions
 GoRPS is designed strictly for testing and evaluating the performance of servers that you own or have explicit permission to test. By using this tool, you agree to the following terms:
