@@ -1,7 +1,7 @@
 # Yugo - Server Performance Testing Tool
-Yugo is load testing solution that helps businesses ensure their websites can handle high traffic conditions. Built with Go and Fiber framework, it simulates thousands of concurrent users to identify performance bottlenecks before they impact real customers. Features automated testing, scalable architecture, and configurable scenarios - helping organizations prevent costly downtime and maintain optimal user experience.
-## Features
+Yugo is load testing solution that helps businesses ensure their websites can handle high traffic conditions. Built with Go and Fiber framework, it simulates thousands of concurrent users to identify performance bottlenecks before they impact real customers.
 
+## Features
 - **Dynamic Domain Configuration**: Easily update the target domain using a `.env` file.
 - **Randomized Requests**: Generate and send requests from a list of 1000 unique paths.
 - **High Concurrency**: Utilizes Go's goroutines to simulate real-world load.
