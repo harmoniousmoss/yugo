@@ -1,6 +1,5 @@
-# About GoRPS
-GoRPS is a lightweight and high-performance tool built in Go using the Fiber framework to test server performance by simulating high RPS (Requests Per Second). This tool generates randomized 404 requests from a predefined list of paths to evaluate a server's ability to handle concurrent traffic effectively.
-
+# Yugo - Server Performance Testing Tool
+Yugo is load testing solution that helps businesses ensure their websites can handle high traffic conditions. Built with Go and Fiber framework, it simulates thousands of concurrent users to identify performance bottlenecks before they impact real customers. Features automated testing, scalable architecture, and configurable scenarios - helping organizations prevent costly downtime and maintain optimal user experience.
 ## Features
 
 - **Dynamic Domain Configuration**: Easily update the target domain using a `.env` file.
